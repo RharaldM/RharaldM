@@ -60,15 +60,6 @@ E-commerce completo para cosméticos. Catálogo de produtos, carrinho, checkout,
 
 ---
 
-### [Leve](https://github.com/RharaldM/leve-app-showcase) *(em desenvolvimento | in development)*
-App mobile focado em emagrecimento através de saúde mental. Áudios guiados de reprogramação mental, diário emocional, exercícios de respiração e treinos com feedback profissional. Desenvolvido em Flutter para Android e iOS.
-
-*Mobile app focused on mental health-driven weight loss. Guided audio sessions, emotional diary, breathing exercises, and professional-reviewed workouts.*
-
-`Flutter` `Firebase` `Riverpod` `RevenueCat`
-
----
-
 ## Contato | Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rharald-guimaraes/)
